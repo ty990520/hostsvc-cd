@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: hostservice-container
-        image: ty990520/hostservice:152e87be53fff3262df6e083715d61dba9eb1f4f
+        images: ty990520/hostservice:0d0573295cc05cfd29631681e0bc3e06ab666867
         resources:
           limits:
             memory: "128Mi"
